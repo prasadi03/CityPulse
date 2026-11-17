@@ -1,0 +1,41 @@
+{
+  "zones": {
+    "North": { "en": "North", "kn": "ಉತ್ತರ", "hi": "उत्तर" },
+    "South": { "en": "South", "kn": "ದಕ್ಷಿಣ", "hi": "दक्षिण" },
+    "East": { "en": "East", "kn": "ಪೂರ್ವ", "hi": "पूर्व" },
+    "West": { "en": "West", "kn": "ಪಶ್ಚಿಮ", "hi": "पश्चिम" },
+    "Central": { "en": "Central", "kn": "ಕೇಂದ್ರ", "hi": "मध्य" }
+  },
+  "areas": {
+    "koramangala": { "en": "Koramangala", "kn": "ಕೋರಮಂಗಲ", "hi": "कोरमंगला", "zone": "South" },
+    "indiranagar": { "en": "Indiranagar", "kn": "ಇಂದಿರಾನಗರ", "hi": "इंदिरानगर", "zone": "East" },
+    "whitefield": { "en": "Whitefield", "kn": "ವೈಟ್‌ಫೀಲ್ಡ್", "hi": "व्हाइटफील्ड", "zone": "East" },
+    "jayanagar": { "en": "Jayanagar", "kn": "ಜಯನಗರ", "hi": "जयनगर", "zone": "South" },
+    "jp-nagar": { "en": "JP Nagar", "kn": "ಜೆ.ಪಿ. ನಗರ", "hi": "जे.पी. नगर", "zone": "South" },
+    "hsr-layout": { "en": "HSR Layout", "kn": "ಎಚ್.ಎಸ್.ಆರ್. ಲೇಔಟ್", "hi": "एच.एस.आर. लेआउट", "zone": "South" },
+    "btm-layout": { "en": "BTM Layout", "kn": "ಬಿ.ಟಿ.ಎಂ. ಲೇಔಟ್", "hi": "बी.टी.एम. लेआउट", "zone": "South" },
+    "malleshwaram": { "en": "Malleshwaram", "kn": "ಮಲ್ಲೇಶ್ವರಂ", "hi": "मल्लेश्वरम", "zone": "North" },
+    "rajajinagar": { "en": "Rajajinagar", "kn": "ರಾಜಾಜಿನಗರ", "hi": "राजाजीनगर", "zone": "West" },
+    "basavanagudi": { "en": "Basavanagudi", "kn": "ಬಸವನಗುಡಿ", "hi": "बसवनगुड़ी", "zone": "South" },
+    "hebbal": { "en": "Hebbal", "kn": "ಹೆಬ್ಬಾಳ", "hi": "हेब्बल", "zone": "North" },
+    "yelahanka": { "en": "Yelahanka", "kn": "ಯಲಹಂಕ", "hi": "यलहंका", "zone": "North" },
+    "marathahalli": { "en": "Marathahalli", "kn": "ಮಾರತ್ತಹಳ್ಳಿ", "hi": "मराठाहल्ली", "zone": "East" },
+    "bellandur": { "en": "Bellandur", "kn": "ಬೆಳ್ಳಂದೂರು", "hi": "बेलंदूर", "zone": "East" },
+    "electronic-city": { "en": "Electronic City", "kn": "ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಸಿಟಿ", "hi": "इलेक्ट्रॉनिक सिटी", "zone": "South" },
+    "banashankari": { "en": "Banashankari", "kn": "ಬನಶಂಕರಿ", "hi": "बनशंकरी", "zone": "South" },
+    "kr-puram": { "en": "KR Puram", "kn": "ಕೆ.ಆರ್. ಪುರಂ", "hi": "के.आर. पुरम", "zone": "East" },
+    "yeshwanthpur": { "en": "Yeshwanthpur", "kn": "ಯಶವಂತಪುರ", "hi": "यशवंतपुर", "zone": "North" },
+    "sarjapur-road": { "en": "Sarjapur Road", "kn": "ಸರ್ಜಾಪುರ ರಸ್ತೆ", "hi": "सरजापुर रोड", "zone": "East" },
+    "bommanahalli": { "en": "Bommanahalli", "kn": "ಬೊಮ್ಮನಹಳ್ಳಿ", "hi": "बोम्मनहल्ली", "zone": "South" },
+    "kengeri": { "en": "Kengeri", "kn": "ಕೆಂಗೇರಿ", "hi": "केंगेरी", "zone": "West" },
+    "mahadevapura": { "en": "Mahadevapura", "kn": "ಮಹದೇವಪುರ", "hi": "महादेवपुरा", "zone": "East" },
+    "jalahalli": { "en": "Jalahalli", "kn": "ಜಾಲಹಳ್ಳಿ", "hi": "जालहल्ली", "zone": "North" },
+    "vijayanagar": { "en": "Vijayanagar", "kn": "ವಿಜಯನಗರ", "hi": "विजयनगर", "zone": "West" },
+    "domlur": { "en": "Domlur", "kn": "ದೊಮ್ಮಲೂರು", "hi": "डोमलूर", "zone": "Central" },
+    "ulsoor": { "en": "Ulsoor", "kn": "ಹಲಸೂರು", "hi": "उल्सूर", "zone": "Central" },
+    "frazer-town": { "en": "Frazer Town", "kn": "ಫ್ರೇಜರ್ ಟೌನ್", "hi": "फ्रेज़र टाउन", "zone": "Central" },
+    "rt-nagar": { "en": "RT Nagar", "kn": "ಆರ್.ಟಿ. ನಗರ", "hi": "आर.टी. नगर", "zone": "North" },
+    "peenya": { "en": "Peenya", "kn": "ಪೀಣ್ಯ", "hi": "पीन्या", "zone": "West" },
+    "hennur": { "en": "Hennur", "kn": "ಹೆಣ್ಣೂರು", "hi": "हेन्नूर", "zone": "North" }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "terms": {
+    "power_cut": {
+      "en": "Power cut",
+      "kn": "ವಿದ್ಯುತ್ ಕಡಿತ",
+      "hi": "बिजली कटौती"
+    },
+    "water_supply": {
+      "en": "Water supply",
+      "kn": "ನೀರು ಸರಬರಾಜು",
+      "hi": "जल आपूर्ति"
+    },
+    "complaint": {
+      "en": "Complaint / Report",
+      "kn": "ದೂರು",
+      "hi": "शिकायत"
+    },
+    "pothole": {
+      "en": "Pothole",
+      "kn": "ರಸ್ತೆ ಗುಂಡಿ",
+      "hi": "सड़क का गड्ढा"
+    },
+    "streetlight": {
+      "en": "Streetlight",
+      "kn": "ಬೀದಿ ದೀಪ",
+      "hi": "स्ट्रीट लाइट"
+    },
+    "waiting": {
+      "en": "Waiting",
+      "kn": "ಕಾಯುತ್ತಿದೆ",
+      "hi": "प्रतीक्षा में"
+    },
+    "ongoing": {
+      "en": "Ongoing",
+      "kn": "ನಡೆಯುತ್ತಿದೆ",
+      "hi": "जारी है"
+    },
+    "scheduled": {
+      "en": "Scheduled",
+      "kn": "ನಿಗದಿಯಾಗಿದೆ",
+      "hi": "निर्धारित"
+    },
+    "solved": {
+      "en": "Solved",
+      "kn": "ಪರಿಹರಿಸಲಾಗಿದೆ",
+      "hi": "हल हो गया"
+    },
+    "consumption": {
+      "en": "Consumption",
+      "kn": "ಬಳಕೆ",
+      "hi": "खपत"
+    },
+    "heatmap": {
+      "en": "Heatmap",
+      "kn": "ಹೀಟ್ಮ್ಯಾಪ್",
+      "hi": "हीटमैप"
+    },
+    "department": {
+      "en": "Department",
+      "kn": "ಇಲಾಖೆ",
+      "hi": "विभाग"
+    },
+    "priority": {
+      "en": "Priority",
+      "kn": "ಆದ್ಯತೆ",
+      "hi": "प्राथमिकता"
+    },
+    "planned_outage": {
+      "en": "Planned outage",
+      "kn": "ನಿಗದಿತ ವಿದ್ಯುತ್ ಕಡಿತ",
+      "hi": "नियोजित बिजली कटौती"
+    },
+    "low_pressure": {
+      "en": "Low pressure",
+      "kn": "ಕಡಿಮೆ ಒತ್ತಡ",
+      "hi": "कम दबाव"
+    },
+    "transformer": {
+      "en": "Transformer",
+      "kn": "ಟ್ರಾನ್ಸ್‌ಫಾರ್ಮರ್",
+      "hi": "ट्रांसफार्मर"
+    },
+    "supply_schedule": {
+      "en": "Supply schedule",
+      "kn": "ಸರಬರಾಜು ವೇಳಾಪಟ್ಟಿ",
+      "hi": "आपूर्ति समय-सारणी"
+    },
+    "ward": {
+      "en": "Ward",
+      "kn": "ವಾರ್ಡ್",
+      "hi": "वार्ड"
+    },
+    "zone": {
+      "en": "Zone",
+      "kn": "ವಲಯ",
+      "hi": "ज़ोन"
+    },
+    "electricity": {
+      "en": "Electricity",
+      "kn": "ವಿದ್ಯುತ್",
+      "hi": "बिजली"
+    },
+    "water": {
+      "en": "Water",
+      "kn": "ನೀರು",
+      "hi": "जल"
+    },
+    "roads": {
+      "en": "Roads",
+      "kn": "ರಸ್ತೆಗಳು",
+      "hi": "सड़कें"
+    },
+    "traffic": {
+      "en": "Traffic",
+      "kn": "ಸಂಚಾರ",
+      "hi": "यातायात"
+    },
+    "public_transport": {
+      "en": "Public Transport",
+      "kn": "ಸಾರ್ವಜನಿಕ ಸಾರಿಗೆ",
+      "hi": "सार्वजनिक परिवहन"
+    },
+    "citizen": {
+      "en": "Citizen",
+      "kn": "ನಾಗರಿಕ",
+      "hi": "नागरिक"
+    },
+    "municipal_worker": {
+      "en": "Municipal Worker",
+      "kn": "ನಗರಪಾಲಿಕೆ ಸಿಬ್ಬಂದಿ",
+      "hi": "नगर निगम कर्मी"
+    },
+    "congestion": {
+      "en": "Traffic congestion",
+      "kn": "ಸಂಚಾರ ದಟ್ಟಣೆ",
+      "hi": "यातायात भीड़भाड़"
+    },
+    "peak_hour": {
+      "en": "Peak hour",
+      "kn": "ಗರಿಷ್ಠ ಸಮಯ",
+      "hi": "व्यस्त समय"
+    },
+    "voltage_fluctuation": {
+      "en": "Voltage fluctuation",
+      "kn": "ವೋಲ್ಟೇಜ್ ಏರಿಳಿತ",
+      "hi": "वोल्टेज उतार-चढ़ाव"
+    },
+    "water_leakage": {
+      "en": "Water leakage",
+      "kn": "ನೀರು ಸೋರಿಕೆ",
+      "hi": "पानी रिसाव"
+    },
+    "no_supply": {
+      "en": "No supply",
+      "kn": "ಸರಬರಾಜು ಇಲ್ಲ",
+      "hi": "आपूर्ति बंद"
+    },
+    "contaminated_water": {
+      "en": "Contaminated water",
+      "kn": "ಕಲುಷಿತ ನೀರು",
+      "hi": "दूषित पानी"
+    },
+    "footpath_damage": {
+      "en": "Footpath damage",
+      "kn": "ಪಾದಚಾರಿ ಮಾರ್ಗ ಹಾನಿ",
+      "hi": "फुटपाथ क्षति"
+    },
+    "drainage_block": {
+      "en": "Drainage block",
+      "kn": "ಚರಂಡಿ ತಡೆ",
+      "hi": "नाली जाम"
+    },
+    "signal_fault": {
+      "en": "Signal fault",
+      "kn": "ಸಿಗ್ನಲ್ ದೋಷ",
+      "hi": "सिग्नल खराबी"
+    },
+    "junction_bottleneck": {
+      "en": "Junction bottleneck",
+      "kn": "ಜಂಕ್ಷನ್ ದಟ್ಟಣೆ",
+      "hi": "चौराहा जाम"
+    },
+    "missing_signage": {
+      "en": "Missing signage",
+      "kn": "ಸೂಚನಾ ಫಲಕ ಇಲ್ಲ",
+      "hi": "संकेत बोर्ड अनुपस्थित"
+    },
+    "divider_damage": {
+      "en": "Divider damage",
+      "kn": "ವಿಭಜಕ ಹಾನಿ",
+      "hi": "डिवाइडर क्षति"
+    },
+    "bus_shelter": {
+      "en": "Bus shelter",
+      "kn": "ಬಸ್ ನಿಲ್ದಾಣ",
+      "hi": "बस शेल्टर"
+    },
+    "route_delay": {
+      "en": "Route delay",
+      "kn": "ಮಾರ್ಗ ವಿಳಂಬ",
+      "hi": "रूट देरी"
+    },
+    "missing_timetable": {
+      "en": "Missing timetable",
+      "kn": "ವೇಳಾಪಟ್ಟಿ ಇಲ್ಲ",
+      "hi": "समय-सारणी अनुपस्थित"
+    },
+    "metro_feeder": {
+      "en": "Metro feeder",
+      "kn": "ಮೆಟ್ರೋ ಫೀಡರ್",
+      "hi": "मेट्रो फीडर"
+    },
+    "urgent": {
+      "en": "Urgent",
+      "kn": "ತುರ್ತು",
+      "hi": "अत्यावश्यक"
+    },
+    "high": {
+      "en": "High",
+      "kn": "ಹೆಚ್ಚು",
+      "hi": "उच्च"
+    },
+    "medium": {
+      "en": "Medium",
+      "kn": "ಮಧ್ಯಮ",
+      "hi": "मध्यम"
+    },
+    "low": {
+      "en": "Low",
+      "kn": "ಕಡಿಮೆ",
+      "hi": "कम"
+    }
+  },
+  "untranslated": [
+    "BESCOM",
+    "BWSSB",
+    "BBMP",
+    "BBMP/GBA",
+    "BMTC",
+    "BTP",
+    "AQI",
+    "MW",
+    "MLD",
+    "kL",
+    "kWh",
+    "OTP",
+    "CityPulse",
+    "NagaraAI"
+  ]
+}

@@ -1,0 +1,201 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Noto Sans Kannada", "Noto Sans Devanagari", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  --color-canvas: #FFF9F2;
+  --color-surface: #FFFFFF;
+
+  --color-ink-heading: #5A4A42;
+  --color-ink-body: #7A6A62;
+
+  --color-border-soft: #F0E6DF;
+  --color-divider-hairline: #F5EDE6;
+
+  --color-coral: #FF9B71;
+  --color-coral-active: #FF8456;
+  --color-sky: #5BB8F5;
+  --color-green: #5FCB8A;
+  --color-yellow: #FFC93C;
+  --color-red: #FF6B6B;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    font-size: 16px;
+    background-color: #FFF9F2;
+    color: #7A6A62;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html[lang="kn"] {
+    --font-sans: "Noto Sans Kannada", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+
+  html[lang="hi"] {
+    --font-sans: "Noto Sans Devanagari", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #FFF9F2;
+    color: #7A6A62;
+    margin: 0;
+    min-height: 100vh;
+  }
+
+  html[lang="kn"] body,
+  html[lang="hi"] body {
+    line-height: 1.6;
+  }
+
+  html[lang="kn"] .leading-tight,
+  html[lang="hi"] .leading-tight,
+  html[lang="kn"] .leading-snug,
+  html[lang="hi"] .leading-snug {
+    line-height: 1.5;
+  }
+
+  h1, h2, h3, h4 {
+    color: #5A4A42;
+    text-wrap: balance;
+  }
+}
+
+.cp-card {
+  background-color: #FFFFFF;
+  border: 1px solid #F0E6DF;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px -2px rgba(122, 106, 98, 0.08);
+}
+
+.cp-card-interactive {
+  background-color: #FFFFFF;
+  border: 1px solid #F0E6DF;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px -2px rgba(122, 106, 98, 0.08);
+  transition: transform 160ms cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 160ms cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 160ms ease;
+}
+
+.cp-card-interactive:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 24px -4px rgba(122, 106, 98, 0.12);
+  border-color: #E3D2C6;
+}
+
+.cp-input {
+  min-height: 44px;
+  background-color: #FFFFFF;
+  border: 1px solid #F0E6DF;
+  border-radius: 12px;
+  color: #5A4A42;
+  font-size: 16px;
+  transition: border-color 150ms ease, box-shadow 150ms ease;
+}
+
+.cp-input::placeholder {
+  color: #9C8B82;
+}
+
+.cp-input:focus {
+  outline: none;
+  border-color: #FF9B71;
+  box-shadow: 0 0 0 3px rgba(255, 155, 113, 0.22);
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cp-card-interactive,
+  .cp-card-interactive:hover {
+    transition: none;
+    transform: none;
+  }
+}
+
+/* OpenStreetMap + Leaflet Warm Light Civic Styling */
+.leaflet-container {
+  font-family: var(--font-sans);
+  background: #FFF9F2;
+  z-index: 1;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 16px !important;
+  border: 1px solid #F0E6DF;
+  box-shadow: 0 12px 28px -4px rgba(122, 106, 98, 0.18) !important;
+  padding: 2px;
+  color: #5A4A42 !important;
+}
+
+.leaflet-popup-tip {
+  box-shadow: 0 4px 12px rgba(122, 106, 98, 0.12) !important;
+}
+
+.leaflet-control-zoom a {
+  color: #5A4A42 !important;
+  border-color: #F0E6DF !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background-color: #FFF0E6 !important;
+}
+
+.cp-map-pin-wrapper {
+  background: transparent;
+  border: none;
+}
+
+/* NagaraAI Floating Widget Animations (Light Theme) */
+@keyframes nagara-pulse-ring {
+  0% {
+    transform: scale(1);
+    opacity: 0.55;
+  }
+  70% {
+    transform: scale(1.26);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1.26);
+    opacity: 0;
+  }
+}
+
+@keyframes nagara-slide-in {
+  0% {
+    opacity: 0;
+    transform: translateY(-6px);
+    background-color: #FFEAD9;
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+    background-color: #FFFFFF;
+  }
+}
+
+.nagara-pulse-ring {
+  animation: nagara-pulse-ring 2.8s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+}
+
+.nagara-slide-in {
+  animation: nagara-slide-in 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nagara-pulse-ring,
+  .nagara-slide-in {
+    animation: none;
+  }
+}
+
+

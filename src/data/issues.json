@@ -1,0 +1,1957 @@
+[
+  {
+    "id": "CP-1001",
+    "departmentId": "electricity",
+    "department": "Electricity - BESCOM",
+    "category": "Power cut",
+    "areaId": "koramangala",
+    "areaName": "Koramangala",
+    "zone": "South",
+    "title": "Unscheduled phase drop near main feeder — Koramangala",
+    "description": "Resident report from Koramangala (South Zone): Unscheduled phase drop near main feeder. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "High",
+    "createdAt": "Today",
+    "ageHours": 4,
+    "reporterId": "cit-101",
+    "reporterName": "Aarav Sharma",
+    "timeline": [
+      {
+        "id": "CP-1001-t1",
+        "actorRole": "citizen",
+        "actorName": "Aarav Sharma",
+        "message": "Reported power cut in Koramangala.",
+        "timestamp": "4h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1001-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1402",
+        "timestamp": "1h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1002",
+    "departmentId": "electricity",
+    "department": "Electricity - BESCOM",
+    "category": "Transformer fault",
+    "areaId": "jayanagar",
+    "areaName": "Jayanagar",
+    "zone": "South",
+    "title": "Distribution transformer humming loudly — Jayanagar",
+    "description": "Resident report from Jayanagar (South Zone): Distribution transformer humming loudly. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "scheduled": {
+      "date": "2026-11-17",
+      "time": "14:30",
+      "etaNote": "Field crew & inspection van dispatched to Jayanagar"
+    },
+    "priority": "Urgent",
+    "createdAt": "Today",
+    "ageHours": 13,
+    "reporterId": "cit-102",
+    "reporterName": "Ananya Rao",
+    "timeline": [
+      {
+        "id": "CP-1002-t1",
+        "actorRole": "citizen",
+        "actorName": "Ananya Rao",
+        "message": "Reported transformer fault in Jayanagar.",
+        "timestamp": "13h ago"
+      },
+      {
+        "id": "CP-1002-t2",
+        "actorRole": "worker",
+        "actorName": "Electricity Desk",
+        "message": "Crew scheduled for Nov 17 at 14:30. Field crew & inspection van dispatched to Jayanagar",
+        "timestamp": "6h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": true
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1002-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1403",
+        "timestamp": "4h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1003",
+    "departmentId": "electricity",
+    "department": "Electricity - BESCOM",
+    "category": "Voltage fluctuation",
+    "areaId": "btm-layout",
+    "areaName": "BTM Layout",
+    "zone": "South",
+    "title": "Repeated evening voltage fluctuation — BTM Layout",
+    "description": "Resident report from BTM Layout (South Zone): Repeated evening voltage fluctuation. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "priority": "Medium",
+    "createdAt": "Today",
+    "ageHours": 18,
+    "reporterId": "cit-103",
+    "reporterName": "Rohan Deshmukh",
+    "timeline": [
+      {
+        "id": "CP-1003-t1",
+        "actorRole": "citizen",
+        "actorName": "Rohan Deshmukh",
+        "message": "Reported voltage fluctuation in BTM Layout.",
+        "timestamp": "18h ago"
+      },
+      {
+        "id": "CP-1003-t2",
+        "actorRole": "worker",
+        "actorName": "Electricity Desk",
+        "message": "Field engineer is currently inspecting the site in BTM Layout.",
+        "timestamp": "9h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": false
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1003-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1404",
+        "timestamp": "6h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1004",
+    "departmentId": "electricity",
+    "department": "Electricity - BESCOM",
+    "category": "Streetlight",
+    "areaId": "basavanagudi",
+    "areaName": "Basavanagudi",
+    "zone": "South",
+    "title": "Sub-station feeder breaker tripping — Basavanagudi",
+    "description": "Resident report from Basavanagudi (South Zone): Sub-station feeder breaker tripping. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Low",
+    "createdAt": "1d ago",
+    "ageHours": 42,
+    "reporterId": "cit-104",
+    "reporterName": "Priya Nair",
+    "timeline": [
+      {
+        "id": "CP-1004-t1",
+        "actorRole": "citizen",
+        "actorName": "Priya Nair",
+        "message": "Reported streetlight in Basavanagudi.",
+        "timestamp": "42h ago"
+      },
+      {
+        "id": "CP-1004-t2",
+        "actorRole": "worker",
+        "actorName": "Electricity Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "21h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1004-t3",
+        "actorRole": "worker",
+        "actorName": "Electricity Desk",
+        "message": "Issue resolved and tested normal in Basavanagudi.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1004-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1405",
+        "timestamp": "14h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1005",
+    "departmentId": "electricity",
+    "department": "Electricity - BESCOM",
+    "category": "Power cut",
+    "areaId": "marathahalli",
+    "areaName": "Marathahalli",
+    "zone": "East",
+    "title": "Smart meter pole spark after drizzle — Marathahalli",
+    "description": "Resident report from Marathahalli (East Zone): Smart meter pole spark after drizzle. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "Medium",
+    "createdAt": "1d ago",
+    "ageHours": 28,
+    "reporterId": "cit-105",
+    "reporterName": "Vikram Hegde",
+    "timeline": [
+      {
+        "id": "CP-1005-t1",
+        "actorRole": "citizen",
+        "actorName": "Vikram Hegde",
+        "message": "Reported power cut in Marathahalli.",
+        "timestamp": "28h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1005-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1406",
+        "timestamp": "9h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1006",
+    "departmentId": "electricity",
+    "department": "Electricity - BESCOM",
+    "category": "Transformer fault",
+    "areaId": "banashankari",
+    "areaName": "Banashankari",
+    "zone": "South",
+    "title": "Three-phase supply outage on 4th Cross — Banashankari",
+    "description": "Resident report from Banashankari (South Zone): Three-phase supply outage on 4th Cross. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "scheduled": {
+      "date": "2026-11-17",
+      "time": "10:00",
+      "etaNote": "Field crew & inspection van dispatched to Banashankari"
+    },
+    "priority": "High",
+    "createdAt": "1d ago",
+    "ageHours": 33,
+    "reporterId": "cit-106",
+    "reporterName": "Meera Krishnan",
+    "timeline": [
+      {
+        "id": "CP-1006-t1",
+        "actorRole": "citizen",
+        "actorName": "Meera Krishnan",
+        "message": "Reported transformer fault in Banashankari.",
+        "timestamp": "33h ago"
+      },
+      {
+        "id": "CP-1006-t2",
+        "actorRole": "worker",
+        "actorName": "Electricity Desk",
+        "message": "Crew scheduled for Nov 17 at 10:00. Field crew & inspection van dispatched to Banashankari",
+        "timestamp": "16h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": true
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1006-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1407",
+        "timestamp": "11h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1007",
+    "departmentId": "electricity",
+    "department": "Electricity - BESCOM",
+    "category": "Voltage fluctuation",
+    "areaId": "sarjapur-road",
+    "areaName": "Sarjapur Road",
+    "zone": "East",
+    "title": "Overhead cable sag near tree canopy — Sarjapur Road",
+    "description": "Resident report from Sarjapur Road (East Zone): Overhead cable sag near tree canopy. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Medium",
+    "createdAt": "2d ago",
+    "ageHours": 66,
+    "reporterId": "cit-107",
+    "reporterName": "Siddharth Menon",
+    "timeline": [
+      {
+        "id": "CP-1007-t1",
+        "actorRole": "citizen",
+        "actorName": "Siddharth Menon",
+        "message": "Reported voltage fluctuation in Sarjapur Road.",
+        "timestamp": "66h ago"
+      },
+      {
+        "id": "CP-1007-t2",
+        "actorRole": "worker",
+        "actorName": "Electricity Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "33h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1007-t3",
+        "actorRole": "worker",
+        "actorName": "Electricity Desk",
+        "message": "Issue resolved and tested normal in Sarjapur Road.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1007-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1408",
+        "timestamp": "22h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1008",
+    "departmentId": "electricity",
+    "department": "Electricity - BESCOM",
+    "category": "Streetlight",
+    "areaId": "mahadevapura",
+    "areaName": "Mahadevapura",
+    "zone": "East",
+    "title": "Pillar box door unlocked & sparking — Mahadevapura",
+    "description": "Resident report from Mahadevapura (East Zone): Pillar box door unlocked & sparking. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "Low",
+    "createdAt": "1d ago",
+    "ageHours": 46,
+    "reporterId": "cit-101",
+    "reporterName": "Aarav Sharma",
+    "timeline": [
+      {
+        "id": "CP-1008-t1",
+        "actorRole": "citizen",
+        "actorName": "Aarav Sharma",
+        "message": "Reported streetlight in Mahadevapura.",
+        "timestamp": "46h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1008-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1409",
+        "timestamp": "15h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1009",
+    "departmentId": "electricity",
+    "department": "Electricity - BESCOM",
+    "category": "Power cut",
+    "areaId": "domlur",
+    "areaName": "Domlur",
+    "zone": "Central",
+    "title": "Frequent 10-minute power blinks — Domlur",
+    "description": "Resident report from Domlur (Central Zone): Frequent 10-minute power blinks. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Medium",
+    "createdAt": "3d ago",
+    "ageHours": 82,
+    "reporterId": "cit-102",
+    "reporterName": "Ananya Rao",
+    "timeline": [
+      {
+        "id": "CP-1009-t1",
+        "actorRole": "citizen",
+        "actorName": "Ananya Rao",
+        "message": "Reported power cut in Domlur.",
+        "timestamp": "82h ago"
+      },
+      {
+        "id": "CP-1009-t2",
+        "actorRole": "worker",
+        "actorName": "Electricity Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "41h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1009-t3",
+        "actorRole": "worker",
+        "actorName": "Electricity Desk",
+        "message": "Issue resolved and tested normal in Domlur.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1009-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in Central zone; check asset register #1410",
+        "timestamp": "27h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1010",
+    "departmentId": "water",
+    "department": "Water - BWSSB",
+    "category": "Water leakage",
+    "areaId": "btm-layout",
+    "areaName": "BTM Layout",
+    "zone": "South",
+    "title": "Cauvery supply pressure too low on 2nd floor — BTM Layout",
+    "description": "Resident report from BTM Layout (South Zone): Cauvery supply pressure too low on 2nd floor. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "High",
+    "createdAt": "Today",
+    "ageHours": 4,
+    "reporterId": "cit-102",
+    "reporterName": "Ananya Rao",
+    "timeline": [
+      {
+        "id": "CP-1010-t1",
+        "actorRole": "citizen",
+        "actorName": "Ananya Rao",
+        "message": "Reported water leakage in BTM Layout.",
+        "timestamp": "4h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1010-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1411",
+        "timestamp": "1h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1011",
+    "departmentId": "water",
+    "department": "Water - BWSSB",
+    "category": "Low pressure",
+    "areaId": "basavanagudi",
+    "areaName": "Basavanagudi",
+    "zone": "South",
+    "title": "Underground main valve leaking onto road — Basavanagudi",
+    "description": "Resident report from Basavanagudi (South Zone): Underground main valve leaking onto road. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "scheduled": {
+      "date": "2026-11-17",
+      "time": "14:30",
+      "etaNote": "Field crew & inspection van dispatched to Basavanagudi"
+    },
+    "priority": "Urgent",
+    "createdAt": "Today",
+    "ageHours": 13,
+    "reporterId": "cit-103",
+    "reporterName": "Rohan Deshmukh",
+    "timeline": [
+      {
+        "id": "CP-1011-t1",
+        "actorRole": "citizen",
+        "actorName": "Rohan Deshmukh",
+        "message": "Reported low pressure in Basavanagudi.",
+        "timestamp": "13h ago"
+      },
+      {
+        "id": "CP-1011-t2",
+        "actorRole": "worker",
+        "actorName": "Water Desk",
+        "message": "Crew scheduled for Nov 17 at 14:30. Field crew & inspection van dispatched to Basavanagudi",
+        "timestamp": "6h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": true
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1011-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1412",
+        "timestamp": "4h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1012",
+    "departmentId": "water",
+    "department": "Water - BWSSB",
+    "category": "No supply",
+    "areaId": "marathahalli",
+    "areaName": "Marathahalli",
+    "zone": "East",
+    "title": "Morning water supply delayed by 4 hours — Marathahalli",
+    "description": "Resident report from Marathahalli (East Zone): Morning water supply delayed by 4 hours. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "priority": "Medium",
+    "createdAt": "Today",
+    "ageHours": 18,
+    "reporterId": "cit-104",
+    "reporterName": "Priya Nair",
+    "timeline": [
+      {
+        "id": "CP-1012-t1",
+        "actorRole": "citizen",
+        "actorName": "Priya Nair",
+        "message": "Reported no supply in Marathahalli.",
+        "timestamp": "18h ago"
+      },
+      {
+        "id": "CP-1012-t2",
+        "actorRole": "worker",
+        "actorName": "Water Desk",
+        "message": "Field engineer is currently inspecting the site in Marathahalli.",
+        "timestamp": "9h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": false
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1012-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1413",
+        "timestamp": "6h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1013",
+    "departmentId": "water",
+    "department": "Water - BWSSB",
+    "category": "Contaminated water",
+    "areaId": "banashankari",
+    "areaName": "Banashankari",
+    "zone": "South",
+    "title": "Burst 150mm distribution pipe near corner — Banashankari",
+    "description": "Resident report from Banashankari (South Zone): Burst 150mm distribution pipe near corner. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Low",
+    "createdAt": "1d ago",
+    "ageHours": 42,
+    "reporterId": "cit-105",
+    "reporterName": "Vikram Hegde",
+    "timeline": [
+      {
+        "id": "CP-1013-t1",
+        "actorRole": "citizen",
+        "actorName": "Vikram Hegde",
+        "message": "Reported contaminated water in Banashankari.",
+        "timestamp": "42h ago"
+      },
+      {
+        "id": "CP-1013-t2",
+        "actorRole": "worker",
+        "actorName": "Water Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "21h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1013-t3",
+        "actorRole": "worker",
+        "actorName": "Water Desk",
+        "message": "Issue resolved and tested normal in Banashankari.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1013-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1414",
+        "timestamp": "14h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1014",
+    "departmentId": "water",
+    "department": "Water - BWSSB",
+    "category": "Water leakage",
+    "areaId": "sarjapur-road",
+    "areaName": "Sarjapur Road",
+    "zone": "East",
+    "title": "Cloudy tap water during morning cycle — Sarjapur Road",
+    "description": "Resident report from Sarjapur Road (East Zone): Cloudy tap water during morning cycle. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "Medium",
+    "createdAt": "1d ago",
+    "ageHours": 28,
+    "reporterId": "cit-106",
+    "reporterName": "Meera Krishnan",
+    "timeline": [
+      {
+        "id": "CP-1014-t1",
+        "actorRole": "citizen",
+        "actorName": "Meera Krishnan",
+        "message": "Reported water leakage in Sarjapur Road.",
+        "timestamp": "28h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1014-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1415",
+        "timestamp": "9h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1015",
+    "departmentId": "water",
+    "department": "Water - BWSSB",
+    "category": "Low pressure",
+    "areaId": "mahadevapura",
+    "areaName": "Mahadevapura",
+    "zone": "East",
+    "title": "Zero supply in 6th Block lanes since yesterday — Mahadevapura",
+    "description": "Resident report from Mahadevapura (East Zone): Zero supply in 6th Block lanes since yesterday. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "scheduled": {
+      "date": "2026-11-17",
+      "time": "10:00",
+      "etaNote": "Field crew & inspection van dispatched to Mahadevapura"
+    },
+    "priority": "High",
+    "createdAt": "1d ago",
+    "ageHours": 33,
+    "reporterId": "cit-107",
+    "reporterName": "Siddharth Menon",
+    "timeline": [
+      {
+        "id": "CP-1015-t1",
+        "actorRole": "citizen",
+        "actorName": "Siddharth Menon",
+        "message": "Reported low pressure in Mahadevapura.",
+        "timestamp": "33h ago"
+      },
+      {
+        "id": "CP-1015-t2",
+        "actorRole": "worker",
+        "actorName": "Water Desk",
+        "message": "Crew scheduled for Nov 17 at 10:00. Field crew & inspection van dispatched to Mahadevapura",
+        "timestamp": "16h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": true
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1015-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1416",
+        "timestamp": "11h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1016",
+    "departmentId": "water",
+    "department": "Water - BWSSB",
+    "category": "No supply",
+    "areaId": "domlur",
+    "areaName": "Domlur",
+    "zone": "Central",
+    "title": "Broken gate valve chamber overflowing — Domlur",
+    "description": "Resident report from Domlur (Central Zone): Broken gate valve chamber overflowing. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Medium",
+    "createdAt": "2d ago",
+    "ageHours": 66,
+    "reporterId": "cit-101",
+    "reporterName": "Aarav Sharma",
+    "timeline": [
+      {
+        "id": "CP-1016-t1",
+        "actorRole": "citizen",
+        "actorName": "Aarav Sharma",
+        "message": "Reported no supply in Domlur.",
+        "timestamp": "66h ago"
+      },
+      {
+        "id": "CP-1016-t2",
+        "actorRole": "worker",
+        "actorName": "Water Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "33h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1016-t3",
+        "actorRole": "worker",
+        "actorName": "Water Desk",
+        "message": "Issue resolved and tested normal in Domlur.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1016-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in Central zone; check asset register #1417",
+        "timestamp": "22h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1017",
+    "departmentId": "water",
+    "department": "Water - BWSSB",
+    "category": "Contaminated water",
+    "areaId": "rt-nagar",
+    "areaName": "RT Nagar",
+    "zone": "North",
+    "title": "Public tap stand continuously running — RT Nagar",
+    "description": "Resident report from RT Nagar (North Zone): Public tap stand continuously running. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "Low",
+    "createdAt": "1d ago",
+    "ageHours": 46,
+    "reporterId": "cit-102",
+    "reporterName": "Ananya Rao",
+    "timeline": [
+      {
+        "id": "CP-1017-t1",
+        "actorRole": "citizen",
+        "actorName": "Ananya Rao",
+        "message": "Reported contaminated water in RT Nagar.",
+        "timestamp": "46h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1017-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in North zone; check asset register #1418",
+        "timestamp": "15h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1018",
+    "departmentId": "water",
+    "department": "Water - BWSSB",
+    "category": "Water leakage",
+    "areaId": "koramangala",
+    "areaName": "Koramangala",
+    "zone": "South",
+    "title": "Sewer-storm drain cross leakage near gate — Koramangala",
+    "description": "Resident report from Koramangala (South Zone): Sewer-storm drain cross leakage near gate. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Medium",
+    "createdAt": "3d ago",
+    "ageHours": 82,
+    "reporterId": "cit-103",
+    "reporterName": "Rohan Deshmukh",
+    "timeline": [
+      {
+        "id": "CP-1018-t1",
+        "actorRole": "citizen",
+        "actorName": "Rohan Deshmukh",
+        "message": "Reported water leakage in Koramangala.",
+        "timestamp": "82h ago"
+      },
+      {
+        "id": "CP-1018-t2",
+        "actorRole": "worker",
+        "actorName": "Water Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "41h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1018-t3",
+        "actorRole": "worker",
+        "actorName": "Water Desk",
+        "message": "Issue resolved and tested normal in Koramangala.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1018-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1419",
+        "timestamp": "27h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1019",
+    "departmentId": "roads",
+    "department": "Roads - BBMP",
+    "category": "Pothole",
+    "areaId": "marathahalli",
+    "areaName": "Marathahalli",
+    "zone": "East",
+    "title": "Deep pothole cluster before bus bay — Marathahalli",
+    "description": "Resident report from Marathahalli (East Zone): Deep pothole cluster before bus bay. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "High",
+    "createdAt": "Today",
+    "ageHours": 4,
+    "reporterId": "cit-103",
+    "reporterName": "Rohan Deshmukh",
+    "timeline": [
+      {
+        "id": "CP-1019-t1",
+        "actorRole": "citizen",
+        "actorName": "Rohan Deshmukh",
+        "message": "Reported pothole in Marathahalli.",
+        "timestamp": "4h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1019-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1420",
+        "timestamp": "1h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1020",
+    "departmentId": "roads",
+    "department": "Roads - BBMP",
+    "category": "Streetlight",
+    "areaId": "banashankari",
+    "areaName": "Banashankari",
+    "zone": "South",
+    "title": "Five LED streetlights out on main avenue — Banashankari",
+    "description": "Resident report from Banashankari (South Zone): Five LED streetlights out on main avenue. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "scheduled": {
+      "date": "2026-11-17",
+      "time": "14:30",
+      "etaNote": "Field crew & inspection van dispatched to Banashankari"
+    },
+    "priority": "Urgent",
+    "createdAt": "Today",
+    "ageHours": 13,
+    "reporterId": "cit-104",
+    "reporterName": "Priya Nair",
+    "timeline": [
+      {
+        "id": "CP-1020-t1",
+        "actorRole": "citizen",
+        "actorName": "Priya Nair",
+        "message": "Reported streetlight in Banashankari.",
+        "timestamp": "13h ago"
+      },
+      {
+        "id": "CP-1020-t2",
+        "actorRole": "worker",
+        "actorName": "Roads Desk",
+        "message": "Crew scheduled for Nov 17 at 14:30. Field crew & inspection van dispatched to Banashankari",
+        "timestamp": "6h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": true
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1020-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1421",
+        "timestamp": "4h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1021",
+    "departmentId": "roads",
+    "department": "Roads - BBMP",
+    "category": "Footpath damage",
+    "areaId": "sarjapur-road",
+    "areaName": "Sarjapur Road",
+    "zone": "East",
+    "title": "Cracked pedestrian slab over storm drain — Sarjapur Road",
+    "description": "Resident report from Sarjapur Road (East Zone): Cracked pedestrian slab over storm drain. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "priority": "Medium",
+    "createdAt": "Today",
+    "ageHours": 18,
+    "reporterId": "cit-105",
+    "reporterName": "Vikram Hegde",
+    "timeline": [
+      {
+        "id": "CP-1021-t1",
+        "actorRole": "citizen",
+        "actorName": "Vikram Hegde",
+        "message": "Reported footpath damage in Sarjapur Road.",
+        "timestamp": "18h ago"
+      },
+      {
+        "id": "CP-1021-t2",
+        "actorRole": "worker",
+        "actorName": "Roads Desk",
+        "message": "Field engineer is currently inspecting the site in Sarjapur Road.",
+        "timestamp": "9h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": false
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1021-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1422",
+        "timestamp": "6h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1022",
+    "departmentId": "roads",
+    "department": "Roads - BBMP",
+    "category": "Drainage block",
+    "areaId": "mahadevapura",
+    "areaName": "Mahadevapura",
+    "zone": "East",
+    "title": "Blocked roadside silt trap causing waterlogging — Mahadevapura",
+    "description": "Resident report from Mahadevapura (East Zone): Blocked roadside silt trap causing waterlogging. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Low",
+    "createdAt": "1d ago",
+    "ageHours": 42,
+    "reporterId": "cit-106",
+    "reporterName": "Meera Krishnan",
+    "timeline": [
+      {
+        "id": "CP-1022-t1",
+        "actorRole": "citizen",
+        "actorName": "Meera Krishnan",
+        "message": "Reported drainage block in Mahadevapura.",
+        "timestamp": "42h ago"
+      },
+      {
+        "id": "CP-1022-t2",
+        "actorRole": "worker",
+        "actorName": "Roads Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "21h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1022-t3",
+        "actorRole": "worker",
+        "actorName": "Roads Desk",
+        "message": "Issue resolved and tested normal in Mahadevapura.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1022-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1423",
+        "timestamp": "14h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1023",
+    "departmentId": "roads",
+    "department": "Roads - BBMP",
+    "category": "Pothole",
+    "areaId": "domlur",
+    "areaName": "Domlur",
+    "zone": "Central",
+    "title": "Unfilled utility trench across junction — Domlur",
+    "description": "Resident report from Domlur (Central Zone): Unfilled utility trench across junction. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "Medium",
+    "createdAt": "1d ago",
+    "ageHours": 28,
+    "reporterId": "cit-107",
+    "reporterName": "Siddharth Menon",
+    "timeline": [
+      {
+        "id": "CP-1023-t1",
+        "actorRole": "citizen",
+        "actorName": "Siddharth Menon",
+        "message": "Reported pothole in Domlur.",
+        "timestamp": "28h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1023-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in Central zone; check asset register #1424",
+        "timestamp": "9h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1024",
+    "departmentId": "roads",
+    "department": "Roads - BBMP",
+    "category": "Streetlight",
+    "areaId": "rt-nagar",
+    "areaName": "RT Nagar",
+    "zone": "North",
+    "title": "Collapsed shoulder curb near school gate — RT Nagar",
+    "description": "Resident report from RT Nagar (North Zone): Collapsed shoulder curb near school gate. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "scheduled": {
+      "date": "2026-11-17",
+      "time": "10:00",
+      "etaNote": "Field crew & inspection van dispatched to RT Nagar"
+    },
+    "priority": "High",
+    "createdAt": "1d ago",
+    "ageHours": 33,
+    "reporterId": "cit-101",
+    "reporterName": "Aarav Sharma",
+    "timeline": [
+      {
+        "id": "CP-1024-t1",
+        "actorRole": "citizen",
+        "actorName": "Aarav Sharma",
+        "message": "Reported streetlight in RT Nagar.",
+        "timestamp": "33h ago"
+      },
+      {
+        "id": "CP-1024-t2",
+        "actorRole": "worker",
+        "actorName": "Roads Desk",
+        "message": "Crew scheduled for Nov 17 at 10:00. Field crew & inspection van dispatched to RT Nagar",
+        "timestamp": "16h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": true
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1024-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in North zone; check asset register #1425",
+        "timestamp": "11h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1025",
+    "departmentId": "roads",
+    "department": "Roads - BBMP",
+    "category": "Footpath damage",
+    "areaId": "koramangala",
+    "areaName": "Koramangala",
+    "zone": "South",
+    "title": "Broken manhole cover on service road — Koramangala",
+    "description": "Resident report from Koramangala (South Zone): Broken manhole cover on service road. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Medium",
+    "createdAt": "2d ago",
+    "ageHours": 66,
+    "reporterId": "cit-102",
+    "reporterName": "Ananya Rao",
+    "timeline": [
+      {
+        "id": "CP-1025-t1",
+        "actorRole": "citizen",
+        "actorName": "Ananya Rao",
+        "message": "Reported footpath damage in Koramangala.",
+        "timestamp": "66h ago"
+      },
+      {
+        "id": "CP-1025-t2",
+        "actorRole": "worker",
+        "actorName": "Roads Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "33h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1025-t3",
+        "actorRole": "worker",
+        "actorName": "Roads Desk",
+        "message": "Issue resolved and tested normal in Koramangala.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1025-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1426",
+        "timestamp": "22h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1026",
+    "departmentId": "roads",
+    "department": "Roads - BBMP",
+    "category": "Drainage block",
+    "areaId": "jayanagar",
+    "areaName": "Jayanagar",
+    "zone": "South",
+    "title": "Fallen branch obstructing footpath — Jayanagar",
+    "description": "Resident report from Jayanagar (South Zone): Fallen branch obstructing footpath. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "Low",
+    "createdAt": "1d ago",
+    "ageHours": 46,
+    "reporterId": "cit-103",
+    "reporterName": "Rohan Deshmukh",
+    "timeline": [
+      {
+        "id": "CP-1026-t1",
+        "actorRole": "citizen",
+        "actorName": "Rohan Deshmukh",
+        "message": "Reported drainage block in Jayanagar.",
+        "timestamp": "46h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1026-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1427",
+        "timestamp": "15h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1027",
+    "departmentId": "roads",
+    "department": "Roads - BBMP",
+    "category": "Pothole",
+    "areaId": "btm-layout",
+    "areaName": "BTM Layout",
+    "zone": "South",
+    "title": "Worn zebra crossing paint at market cross — BTM Layout",
+    "description": "Resident report from BTM Layout (South Zone): Worn zebra crossing paint at market cross. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Medium",
+    "createdAt": "3d ago",
+    "ageHours": 82,
+    "reporterId": "cit-104",
+    "reporterName": "Priya Nair",
+    "timeline": [
+      {
+        "id": "CP-1027-t1",
+        "actorRole": "citizen",
+        "actorName": "Priya Nair",
+        "message": "Reported pothole in BTM Layout.",
+        "timestamp": "82h ago"
+      },
+      {
+        "id": "CP-1027-t2",
+        "actorRole": "worker",
+        "actorName": "Roads Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "41h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1027-t3",
+        "actorRole": "worker",
+        "actorName": "Roads Desk",
+        "message": "Issue resolved and tested normal in BTM Layout.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1027-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1428",
+        "timestamp": "27h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1028",
+    "departmentId": "traffic",
+    "department": "Traffic",
+    "category": "Signal fault",
+    "areaId": "sarjapur-road",
+    "areaName": "Sarjapur Road",
+    "zone": "East",
+    "title": "Traffic signal stuck on amber blink — Sarjapur Road",
+    "description": "Resident report from Sarjapur Road (East Zone): Traffic signal stuck on amber blink. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "High",
+    "createdAt": "Today",
+    "ageHours": 4,
+    "reporterId": "cit-104",
+    "reporterName": "Priya Nair",
+    "timeline": [
+      {
+        "id": "CP-1028-t1",
+        "actorRole": "citizen",
+        "actorName": "Priya Nair",
+        "message": "Reported signal fault in Sarjapur Road.",
+        "timestamp": "4h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1028-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1429",
+        "timestamp": "1h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1029",
+    "departmentId": "traffic",
+    "department": "Traffic",
+    "category": "Junction bottleneck",
+    "areaId": "mahadevapura",
+    "areaName": "Mahadevapura",
+    "zone": "East",
+    "title": "Pedestrian countdown timer dark at crossing — Mahadevapura",
+    "description": "Resident report from Mahadevapura (East Zone): Pedestrian countdown timer dark at crossing. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "scheduled": {
+      "date": "2026-11-17",
+      "time": "14:30",
+      "etaNote": "Field crew & inspection van dispatched to Mahadevapura"
+    },
+    "priority": "Urgent",
+    "createdAt": "Today",
+    "ageHours": 13,
+    "reporterId": "cit-105",
+    "reporterName": "Vikram Hegde",
+    "timeline": [
+      {
+        "id": "CP-1029-t1",
+        "actorRole": "citizen",
+        "actorName": "Vikram Hegde",
+        "message": "Reported junction bottleneck in Mahadevapura.",
+        "timestamp": "13h ago"
+      },
+      {
+        "id": "CP-1029-t2",
+        "actorRole": "worker",
+        "actorName": "Traffic Desk",
+        "message": "Crew scheduled for Nov 17 at 14:30. Field crew & inspection van dispatched to Mahadevapura",
+        "timestamp": "6h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": true
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1029-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1430",
+        "timestamp": "4h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1030",
+    "departmentId": "traffic",
+    "department": "Traffic",
+    "category": "Missing signage",
+    "areaId": "domlur",
+    "areaName": "Domlur",
+    "zone": "Central",
+    "title": "Broken plastic median bollards scattered — Domlur",
+    "description": "Resident report from Domlur (Central Zone): Broken plastic median bollards scattered. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "priority": "Medium",
+    "createdAt": "Today",
+    "ageHours": 18,
+    "reporterId": "cit-106",
+    "reporterName": "Meera Krishnan",
+    "timeline": [
+      {
+        "id": "CP-1030-t1",
+        "actorRole": "citizen",
+        "actorName": "Meera Krishnan",
+        "message": "Reported missing signage in Domlur.",
+        "timestamp": "18h ago"
+      },
+      {
+        "id": "CP-1030-t2",
+        "actorRole": "worker",
+        "actorName": "Traffic Desk",
+        "message": "Field engineer is currently inspecting the site in Domlur.",
+        "timestamp": "9h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": false
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1030-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in Central zone; check asset register #1431",
+        "timestamp": "6h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1031",
+    "departmentId": "traffic",
+    "department": "Traffic",
+    "category": "Divider damage",
+    "areaId": "rt-nagar",
+    "areaName": "RT Nagar",
+    "zone": "North",
+    "title": "One-way signage knocked down by truck — RT Nagar",
+    "description": "Resident report from RT Nagar (North Zone): One-way signage knocked down by truck. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Low",
+    "createdAt": "1d ago",
+    "ageHours": 42,
+    "reporterId": "cit-107",
+    "reporterName": "Siddharth Menon",
+    "timeline": [
+      {
+        "id": "CP-1031-t1",
+        "actorRole": "citizen",
+        "actorName": "Siddharth Menon",
+        "message": "Reported divider damage in RT Nagar.",
+        "timestamp": "42h ago"
+      },
+      {
+        "id": "CP-1031-t2",
+        "actorRole": "worker",
+        "actorName": "Traffic Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "21h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1031-t3",
+        "actorRole": "worker",
+        "actorName": "Traffic Desk",
+        "message": "Issue resolved and tested normal in RT Nagar.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1031-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in North zone; check asset register #1432",
+        "timestamp": "14h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1032",
+    "departmentId": "traffic",
+    "department": "Traffic",
+    "category": "Signal fault",
+    "areaId": "koramangala",
+    "areaName": "Koramangala",
+    "zone": "South",
+    "title": "Signal synchronization lag causing 400m queue — Koramangala",
+    "description": "Resident report from Koramangala (South Zone): Signal synchronization lag causing 400m queue. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "Medium",
+    "createdAt": "1d ago",
+    "ageHours": 28,
+    "reporterId": "cit-101",
+    "reporterName": "Aarav Sharma",
+    "timeline": [
+      {
+        "id": "CP-1032-t1",
+        "actorRole": "citizen",
+        "actorName": "Aarav Sharma",
+        "message": "Reported signal fault in Koramangala.",
+        "timestamp": "28h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1032-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1433",
+        "timestamp": "9h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1033",
+    "departmentId": "traffic",
+    "department": "Traffic",
+    "category": "Junction bottleneck",
+    "areaId": "jayanagar",
+    "areaName": "Jayanagar",
+    "zone": "South",
+    "title": "Missing school zone speed breaker markings — Jayanagar",
+    "description": "Resident report from Jayanagar (South Zone): Missing school zone speed breaker markings. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "scheduled": {
+      "date": "2026-11-17",
+      "time": "10:00",
+      "etaNote": "Field crew & inspection van dispatched to Jayanagar"
+    },
+    "priority": "High",
+    "createdAt": "1d ago",
+    "ageHours": 33,
+    "reporterId": "cit-102",
+    "reporterName": "Ananya Rao",
+    "timeline": [
+      {
+        "id": "CP-1033-t1",
+        "actorRole": "citizen",
+        "actorName": "Ananya Rao",
+        "message": "Reported junction bottleneck in Jayanagar.",
+        "timestamp": "33h ago"
+      },
+      {
+        "id": "CP-1033-t2",
+        "actorRole": "worker",
+        "actorName": "Traffic Desk",
+        "message": "Crew scheduled for Nov 17 at 10:00. Field crew & inspection van dispatched to Jayanagar",
+        "timestamp": "16h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": true
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1033-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1434",
+        "timestamp": "11h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1034",
+    "departmentId": "traffic",
+    "department": "Traffic",
+    "category": "Missing signage",
+    "areaId": "btm-layout",
+    "areaName": "BTM Layout",
+    "zone": "South",
+    "title": "Blocked left-turn free lane near flyover — BTM Layout",
+    "description": "Resident report from BTM Layout (South Zone): Blocked left-turn free lane near flyover. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Medium",
+    "createdAt": "2d ago",
+    "ageHours": 66,
+    "reporterId": "cit-103",
+    "reporterName": "Rohan Deshmukh",
+    "timeline": [
+      {
+        "id": "CP-1034-t1",
+        "actorRole": "citizen",
+        "actorName": "Rohan Deshmukh",
+        "message": "Reported missing signage in BTM Layout.",
+        "timestamp": "66h ago"
+      },
+      {
+        "id": "CP-1034-t2",
+        "actorRole": "worker",
+        "actorName": "Traffic Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "33h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1034-t3",
+        "actorRole": "worker",
+        "actorName": "Traffic Desk",
+        "message": "Issue resolved and tested normal in BTM Layout.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1034-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1435",
+        "timestamp": "22h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1035",
+    "departmentId": "traffic",
+    "department": "Traffic",
+    "category": "Divider damage",
+    "areaId": "basavanagudi",
+    "areaName": "Basavanagudi",
+    "zone": "South",
+    "title": "Damaged convex mirror at blind corner — Basavanagudi",
+    "description": "Resident report from Basavanagudi (South Zone): Damaged convex mirror at blind corner. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "Low",
+    "createdAt": "1d ago",
+    "ageHours": 46,
+    "reporterId": "cit-104",
+    "reporterName": "Priya Nair",
+    "timeline": [
+      {
+        "id": "CP-1035-t1",
+        "actorRole": "citizen",
+        "actorName": "Priya Nair",
+        "message": "Reported divider damage in Basavanagudi.",
+        "timestamp": "46h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1035-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1436",
+        "timestamp": "15h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1036",
+    "departmentId": "traffic",
+    "department": "Traffic",
+    "category": "Signal fault",
+    "areaId": "marathahalli",
+    "areaName": "Marathahalli",
+    "zone": "East",
+    "title": "Faulty red-light timer jumping phases — Marathahalli",
+    "description": "Resident report from Marathahalli (East Zone): Faulty red-light timer jumping phases. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Medium",
+    "createdAt": "3d ago",
+    "ageHours": 82,
+    "reporterId": "cit-105",
+    "reporterName": "Vikram Hegde",
+    "timeline": [
+      {
+        "id": "CP-1036-t1",
+        "actorRole": "citizen",
+        "actorName": "Vikram Hegde",
+        "message": "Reported signal fault in Marathahalli.",
+        "timestamp": "82h ago"
+      },
+      {
+        "id": "CP-1036-t2",
+        "actorRole": "worker",
+        "actorName": "Traffic Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "41h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1036-t3",
+        "actorRole": "worker",
+        "actorName": "Traffic Desk",
+        "message": "Issue resolved and tested normal in Marathahalli.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1036-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1437",
+        "timestamp": "27h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1037",
+    "departmentId": "transport",
+    "department": "Public Transport - BMTC",
+    "category": "Bus shelter",
+    "areaId": "domlur",
+    "areaName": "Domlur",
+    "zone": "Central",
+    "title": "Bus shelter roof panel loose in wind — Domlur",
+    "description": "Resident report from Domlur (Central Zone): Bus shelter roof panel loose in wind. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "High",
+    "createdAt": "Today",
+    "ageHours": 4,
+    "reporterId": "cit-105",
+    "reporterName": "Vikram Hegde",
+    "timeline": [
+      {
+        "id": "CP-1037-t1",
+        "actorRole": "citizen",
+        "actorName": "Vikram Hegde",
+        "message": "Reported bus shelter in Domlur.",
+        "timestamp": "4h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1037-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in Central zone; check asset register #1438",
+        "timestamp": "1h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1038",
+    "departmentId": "transport",
+    "department": "Public Transport - BMTC",
+    "category": "Route delay",
+    "areaId": "rt-nagar",
+    "areaName": "RT Nagar",
+    "zone": "North",
+    "title": "Morning Metro feeder 500D skipping stop — RT Nagar",
+    "description": "Resident report from RT Nagar (North Zone): Morning Metro feeder 500D skipping stop. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "scheduled": {
+      "date": "2026-11-17",
+      "time": "14:30",
+      "etaNote": "Field crew & inspection van dispatched to RT Nagar"
+    },
+    "priority": "Urgent",
+    "createdAt": "Today",
+    "ageHours": 13,
+    "reporterId": "cit-106",
+    "reporterName": "Meera Krishnan",
+    "timeline": [
+      {
+        "id": "CP-1038-t1",
+        "actorRole": "citizen",
+        "actorName": "Meera Krishnan",
+        "message": "Reported route delay in RT Nagar.",
+        "timestamp": "13h ago"
+      },
+      {
+        "id": "CP-1038-t2",
+        "actorRole": "worker",
+        "actorName": "Public Transport Desk",
+        "message": "Crew scheduled for Nov 17 at 14:30. Field crew & inspection van dispatched to RT Nagar",
+        "timestamp": "6h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": true
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1038-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in North zone; check asset register #1439",
+        "timestamp": "4h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1039",
+    "departmentId": "transport",
+    "department": "Public Transport - BMTC",
+    "category": "Missing timetable",
+    "areaId": "koramangala",
+    "areaName": "Koramangala",
+    "zone": "South",
+    "title": "Digital arrival board frozen on yesterday — Koramangala",
+    "description": "Resident report from Koramangala (South Zone): Digital arrival board frozen on yesterday. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "priority": "Medium",
+    "createdAt": "Today",
+    "ageHours": 18,
+    "reporterId": "cit-107",
+    "reporterName": "Siddharth Menon",
+    "timeline": [
+      {
+        "id": "CP-1039-t1",
+        "actorRole": "citizen",
+        "actorName": "Siddharth Menon",
+        "message": "Reported missing timetable in Koramangala.",
+        "timestamp": "18h ago"
+      },
+      {
+        "id": "CP-1039-t2",
+        "actorRole": "worker",
+        "actorName": "Public Transport Desk",
+        "message": "Field engineer is currently inspecting the site in Koramangala.",
+        "timestamp": "9h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": false
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1039-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1440",
+        "timestamp": "6h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1040",
+    "departmentId": "transport",
+    "department": "Public Transport - BMTC",
+    "category": "Metro feeder",
+    "areaId": "jayanagar",
+    "areaName": "Jayanagar",
+    "zone": "South",
+    "title": "Broken bench slats inside bus bay — Jayanagar",
+    "description": "Resident report from Jayanagar (South Zone): Broken bench slats inside bus bay. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Low",
+    "createdAt": "1d ago",
+    "ageHours": 42,
+    "reporterId": "cit-101",
+    "reporterName": "Aarav Sharma",
+    "timeline": [
+      {
+        "id": "CP-1040-t1",
+        "actorRole": "citizen",
+        "actorName": "Aarav Sharma",
+        "message": "Reported metro feeder in Jayanagar.",
+        "timestamp": "42h ago"
+      },
+      {
+        "id": "CP-1040-t2",
+        "actorRole": "worker",
+        "actorName": "Public Transport Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "21h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1040-t3",
+        "actorRole": "worker",
+        "actorName": "Public Transport Desk",
+        "message": "Issue resolved and tested normal in Jayanagar.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1040-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1441",
+        "timestamp": "14h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1041",
+    "departmentId": "transport",
+    "department": "Public Transport - BMTC",
+    "category": "Bus shelter",
+    "areaId": "btm-layout",
+    "areaName": "BTM Layout",
+    "zone": "South",
+    "title": "Unlit shelter platform after 7 PM — BTM Layout",
+    "description": "Resident report from BTM Layout (South Zone): Unlit shelter platform after 7 PM. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "Medium",
+    "createdAt": "1d ago",
+    "ageHours": 28,
+    "reporterId": "cit-102",
+    "reporterName": "Ananya Rao",
+    "timeline": [
+      {
+        "id": "CP-1041-t1",
+        "actorRole": "citizen",
+        "actorName": "Ananya Rao",
+        "message": "Reported bus shelter in BTM Layout.",
+        "timestamp": "28h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1041-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1442",
+        "timestamp": "9h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1042",
+    "departmentId": "transport",
+    "department": "Public Transport - BMTC",
+    "category": "Route delay",
+    "areaId": "basavanagudi",
+    "areaName": "Basavanagudi",
+    "zone": "South",
+    "title": "Need extra 8:30 AM shuttle toward ITPL — Basavanagudi",
+    "description": "Resident report from Basavanagudi (South Zone): Need extra 8:30 AM shuttle toward ITPL. Affecting nearby lanes and commuters.",
+    "status": "Ongoing",
+    "scheduled": {
+      "date": "2026-11-17",
+      "time": "10:00",
+      "etaNote": "Field crew & inspection van dispatched to Basavanagudi"
+    },
+    "priority": "High",
+    "createdAt": "1d ago",
+    "ageHours": 33,
+    "reporterId": "cit-103",
+    "reporterName": "Rohan Deshmukh",
+    "timeline": [
+      {
+        "id": "CP-1042-t1",
+        "actorRole": "citizen",
+        "actorName": "Rohan Deshmukh",
+        "message": "Reported route delay in Basavanagudi.",
+        "timestamp": "33h ago"
+      },
+      {
+        "id": "CP-1042-t2",
+        "actorRole": "worker",
+        "actorName": "Public Transport Desk",
+        "message": "Crew scheduled for Nov 17 at 10:00. Field crew & inspection van dispatched to Basavanagudi",
+        "timestamp": "16h ago",
+        "statusChange": "Ongoing",
+        "isSchedule": true
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1042-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1443",
+        "timestamp": "11h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1043",
+    "departmentId": "transport",
+    "department": "Public Transport - BMTC",
+    "category": "Missing timetable",
+    "areaId": "marathahalli",
+    "areaName": "Marathahalli",
+    "zone": "East",
+    "title": "Faded route map sticker at interchange — Marathahalli",
+    "description": "Resident report from Marathahalli (East Zone): Faded route map sticker at interchange. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Medium",
+    "createdAt": "2d ago",
+    "ageHours": 66,
+    "reporterId": "cit-104",
+    "reporterName": "Priya Nair",
+    "timeline": [
+      {
+        "id": "CP-1043-t1",
+        "actorRole": "citizen",
+        "actorName": "Priya Nair",
+        "message": "Reported missing timetable in Marathahalli.",
+        "timestamp": "66h ago"
+      },
+      {
+        "id": "CP-1043-t2",
+        "actorRole": "worker",
+        "actorName": "Public Transport Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "33h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1043-t3",
+        "actorRole": "worker",
+        "actorName": "Public Transport Desk",
+        "message": "Issue resolved and tested normal in Marathahalli.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1043-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1444",
+        "timestamp": "22h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1044",
+    "departmentId": "transport",
+    "department": "Public Transport - BMTC",
+    "category": "Metro feeder",
+    "areaId": "banashankari",
+    "areaName": "Banashankari",
+    "zone": "South",
+    "title": "Bus bay obstructed by parked autos — Banashankari",
+    "description": "Resident report from Banashankari (South Zone): Bus bay obstructed by parked autos. Affecting nearby lanes and commuters.",
+    "status": "Waiting",
+    "priority": "Low",
+    "createdAt": "1d ago",
+    "ageHours": 46,
+    "reporterId": "cit-105",
+    "reporterName": "Vikram Hegde",
+    "timeline": [
+      {
+        "id": "CP-1044-t1",
+        "actorRole": "citizen",
+        "actorName": "Vikram Hegde",
+        "message": "Reported metro feeder in Banashankari.",
+        "timestamp": "46h ago"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1044-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in South zone; check asset register #1445",
+        "timestamp": "15h ago"
+      }
+    ]
+  },
+  {
+    "id": "CP-1045",
+    "departmentId": "transport",
+    "department": "Public Transport - BMTC",
+    "category": "Bus shelter",
+    "areaId": "sarjapur-road",
+    "areaName": "Sarjapur Road",
+    "zone": "East",
+    "title": "Wheelchair ramp curb blocked at stop — Sarjapur Road",
+    "description": "Resident report from Sarjapur Road (East Zone): Wheelchair ramp curb blocked at stop. Affecting nearby lanes and commuters.",
+    "status": "Solved",
+    "priority": "Medium",
+    "createdAt": "3d ago",
+    "ageHours": 82,
+    "reporterId": "cit-106",
+    "reporterName": "Meera Krishnan",
+    "timeline": [
+      {
+        "id": "CP-1045-t1",
+        "actorRole": "citizen",
+        "actorName": "Meera Krishnan",
+        "message": "Reported bus shelter in Sarjapur Road.",
+        "timestamp": "82h ago"
+      },
+      {
+        "id": "CP-1045-t2",
+        "actorRole": "worker",
+        "actorName": "Public Transport Desk",
+        "message": "Crew dispatched and fault isolated cleanly.",
+        "timestamp": "41h ago",
+        "statusChange": "Ongoing"
+      },
+      {
+        "id": "CP-1045-t3",
+        "actorRole": "worker",
+        "actorName": "Public Transport Desk",
+        "message": "Issue resolved and tested normal in Sarjapur Road.",
+        "timestamp": "1h ago",
+        "statusChange": "Solved"
+      }
+    ],
+    "internalNotes": [
+      {
+        "id": "CP-1045-n1",
+        "authorName": "Dispatch Supervisor",
+        "text": "Internal log: Assign nearest ward unit in East zone; check asset register #1446",
+        "timestamp": "27h ago"
+      }
+    ]
+  }
+]

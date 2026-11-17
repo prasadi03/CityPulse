@@ -1,0 +1,6 @@
+{
+  "name": "Sunvale Civic",
+  "description": "Warm civic engagement and urban infrastructure monitoring portal for municipal systems, neighborhood notices, and community issue reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

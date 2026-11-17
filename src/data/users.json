@@ -1,0 +1,70 @@
+{
+  "citizens": [
+    {
+      "id": "cit-101",
+      "name": "Aarav Sharma",
+      "phone": "9845011223",
+      "email": "aarav@citypulse.in",
+      "password": "password123",
+      "areaId": "indiranagar"
+    },
+    {
+      "id": "cit-102",
+      "name": "Ananya Rao",
+      "phone": "9900123456",
+      "email": "ananya@citypulse.in",
+      "password": "pulse2026",
+      "areaId": "koramangala"
+    },
+    {
+      "id": "cit-103",
+      "name": "Rohan Deshmukh",
+      "phone": "9886044556",
+      "email": "rohan@citypulse.in",
+      "password": "pulse2026",
+      "areaId": "whitefield"
+    }
+  ],
+  "workers": [
+    {
+      "id": "wrk-1",
+      "employeeId": "BESCOM-101",
+      "password": "bescom123",
+      "name": "Karthik Gowda",
+      "departmentId": "electricity",
+      "department": "Electricity - BESCOM"
+    },
+    {
+      "id": "wrk-2",
+      "employeeId": "BWSSB-204",
+      "password": "bwssb123",
+      "name": "Deepa Kulkarni",
+      "departmentId": "water",
+      "department": "Water - BWSSB"
+    },
+    {
+      "id": "wrk-3",
+      "employeeId": "BBMP-309",
+      "password": "bbmp123",
+      "name": "Ramesh Nair",
+      "departmentId": "roads",
+      "department": "Roads - BBMP"
+    },
+    {
+      "id": "wrk-4",
+      "employeeId": "BTP-412",
+      "password": "traffic123",
+      "name": "Suresh Babu",
+      "departmentId": "traffic",
+      "department": "Traffic"
+    },
+    {
+      "id": "wrk-5",
+      "employeeId": "BMTC-518",
+      "password": "bmtc123",
+      "name": "Meenakshi Iyer",
+      "departmentId": "transport",
+      "department": "Public Transport - BMTC"
+    }
+  ]
+}
